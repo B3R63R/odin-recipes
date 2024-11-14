@@ -1,0 +1,1 @@
+Simple html page with recipes. Subpages with recipes are displayed via relative links. Recipes include lasagna, pierogi and polish chicken brot "Rosół" with dumplings.
